@@ -15,7 +15,7 @@
 | **Written On** | May 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-still-stays-here/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Love Still Stays Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-still-stays-here/) |
+| **Get License** | [Get License For Love Still Stays Here](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-still-stays-here/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you pull me close
+> A quiet spark that only midnight knows
+> The world can fade into the velvet blue
+> I only want to spend this life with you
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
